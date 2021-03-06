@@ -1,4 +1,4 @@
-### 自我介绍
+## 自我介绍
 
 <!--
 **zzczzczzczzc/zzczzczzczzc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  我叫郑梓淳，来自广东汕头。
+  我叫郑梓淳，来自广东汕头。兴趣爱好广泛，喜欢如跑步、乒乓球、篮球等，平时娱乐方式多样，打打游戏，刷刷视频（B站的各类视频）或者是逛逛知乎（分享你刚编的故事）。性格比较开朗乐观，慢热，做事认真仔细，会比较注重细节。
+### 学习经历
+    
